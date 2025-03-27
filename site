@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GermiKill Spray - O Eliminador de Germes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .benefits, .faq, .testimonials {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .button {
+            display: block;
+            width: 100%;
+            text-align: center;
+            background: #27ae60;
+            color: white;
+            padding: 15px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .button:hover {
+            background: #219150;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>GermiKill Spray - O Eliminador de Germes</h1>
+        <p><strong>🔥 PROTEÇÃO MÁXIMA PARA SEU BANHEIRO! 🔥</strong></p>
+        <p>✅ Elimina 99,99% dos germes e bactérias</p>
+        <p>✅ Aroma agradável e duradouro</p>
+        <p>✅ Fácil de usar - basta borrifar!</p>
+
+        <div class="benefits">
+            <h2>🎯 Benefícios</h2>
+            <ul>
+                <li>Elimina 99,99% dos germes e bactérias</li>
+                <li>Secagem rápida sem manchas</li>
+                <li>Seguro para várias superfícies</li>
+                <li>Proteção prolongada</li>
+            </ul>
+        </div>
+
+        <div class="faq">
+            <h2>🤔 Perguntas Frequentes</h2>
+            <p><strong>Preciso enxaguar depois de aplicar?</strong> Não, basta borrifar e deixar secar.</p>
+            <p><strong>O produto tem cheiro forte?</strong> Não, tem um aroma suave e agradável.</p>
+            <p><strong>É seguro para outras superfícies?</strong> Sim, pode ser usado em porcelanato, vidro e aço inoxidável.</p>
+        </div>
+
+        <div class="testimonials">
+            <h2>💬 O que nossos clientes dizem</h2>
+            <p>⭐ Mariana F.: "Meu banheiro está sempre cheiroso e livre de sujeira! Super recomendo!"</p>
+            <p>⭐ Carlos R.: "Melhor escolha! Fácil de usar e realmente elimina os germes!"</p>
+            <p>⭐ Juliana M.: "Meu banheiro nunca mais ficou com cheiro ruim. Comprarei novamente!"</p>
+        </div>
+
+        <h2>💰 Promoção Especial</h2>
+        <p><strong>🔥 De R$ 119,90 por apenas R$ 59,90!</strong></p>
+        <p><strong>📦 Frete grátis para todo o Brasil!</strong></p>
+
+        <a href="#" class="button">🔒 Comprar Agora</a>
+    </div>
+</body>
+</html>
+
+
